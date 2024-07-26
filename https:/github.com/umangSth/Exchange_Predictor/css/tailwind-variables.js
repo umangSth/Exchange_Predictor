@@ -28,6 +28,8 @@ module.exports = {
         'font-faded-color': '#d3d5d6', 
         'font-secondary-color': '#00002e', 
         'bloody-mary': '#ba0000', 
+        'new-primary': '#5983d4', 
+        'new-primary': '#512525', 
         'text': {
             'selected': '#ffffff', 
         },
